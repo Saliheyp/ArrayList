@@ -1,0 +1,15 @@
+D:\Patika\ArrayList\bin\Debug\net7.0\ArrayList.exe
+D:\Patika\ArrayList\bin\Debug\net7.0\ArrayList.deps.json
+D:\Patika\ArrayList\bin\Debug\net7.0\ArrayList.runtimeconfig.json
+D:\Patika\ArrayList\bin\Debug\net7.0\ArrayList.dll
+D:\Patika\ArrayList\bin\Debug\net7.0\ArrayList.pdb
+D:\Patika\ArrayList\obj\Debug\net7.0\ArrayList.csproj.AssemblyReference.cache
+D:\Patika\ArrayList\obj\Debug\net7.0\ArrayList.GeneratedMSBuildEditorConfig.editorconfig
+D:\Patika\ArrayList\obj\Debug\net7.0\ArrayList.AssemblyInfoInputs.cache
+D:\Patika\ArrayList\obj\Debug\net7.0\ArrayList.AssemblyInfo.cs
+D:\Patika\ArrayList\obj\Debug\net7.0\ArrayList.csproj.CoreCompileInputs.cache
+D:\Patika\ArrayList\obj\Debug\net7.0\ArrayList.dll
+D:\Patika\ArrayList\obj\Debug\net7.0\refint\ArrayList.dll
+D:\Patika\ArrayList\obj\Debug\net7.0\ArrayList.pdb
+D:\Patika\ArrayList\obj\Debug\net7.0\ArrayList.genruntimeconfig.cache
+D:\Patika\ArrayList\obj\Debug\net7.0\ref\ArrayList.dll
